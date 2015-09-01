@@ -111,3 +111,7 @@ gulp.task('default', ['html', 'scripts', 'styles', 'watchout'])
 ```
 
 Now, from the command line we can just run `gulp` and since we have defined a default task, it knows just what to do. Try it out.
+
+#### Deploying to Divshot
+
+Let's go to the docs!

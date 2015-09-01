@@ -1,0 +1,6 @@
+{
+  "name": "simple-angular-app-gulp-demo",
+  "root": "dist",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
